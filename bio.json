@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "name": "nikollesan",
+  "description": "i create stuff.",
+  "style": {
+    "theme": "dark",
+    "font": "serif"
+  },
+  "sections": [
+    {
+      "title": "projects",
+      "type": "list",
+      "items": [
+        {
+          "title": "croissant",
+          "description": "turns websites into lightweight, cross-platform desktop apps using the operating system native webview in a single command",
+          "url": "https://github.com/LuanderFarias/croissant",
+          "date": "2025–Present"
+        },
+        {
+          "title": "nikostack",
+          "description": "a simple stack composed by stuff i like and i fell more productive using",
+          "url": "https://github.com/LuanderFarias/nikostack",
+          "date": "2025–Present"
+        },
+        {
+          "title": "noconhq/interactions",
+          "description": "a community-molded list of details that make good VR/AR/XR interactions",
+          "url": "https://github.com/noconhq/interactions",
+          "date": "2025–Present"
+        },
+        {
+          "title": "api",
+          "description": "directly exposes some information and stuff about me to a API and WebSocket",
+          "url": "https://github.com/LuanderFarias/api",
+          "date": "2025–Present"
+        }
+      ]
+    },
+    {
+      "title": "socials",
+      "type": "links",
+      "links": [
+        {
+          "title": "github",
+          "url": "https://github.com/luanderfarias"
+        },
+        {
+          "title": "X (Twitter)",
+          "url": "https://x.com/nikollesan"
+        }
+      ]
+    }
+  ]
+}
