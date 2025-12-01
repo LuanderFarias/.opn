@@ -38,6 +38,36 @@
       ]
     },
     {
+      "title": "companies",
+      "type": "list",
+      "items": [
+        {
+          "title": "betterbrowser",
+          "description": "improving the internet since 2023",
+          "url": "https://github.com/betterbrowser",
+          "date": "2023–Present"
+        },
+        {
+          "title": "noconhq",
+          "description": "VR/AR/XR digital worlds viewports & interactions",
+          "url": "https://github.com/noconhq",
+          "date": "2022–Present"
+        },
+        {
+          "title": "metaclip",
+          "description": "a self-hosted (for now) space to organize your digital things",
+          "url": "https://github.com/metaclip-app",
+          "date": "2022–Present"
+        },
+        {
+          "title": "nikoidot",
+          "description": "nikoidot is a team of engineers creating startups and stuff",
+          "url": "https://github.com/nikoidot",
+          "date": "2022–2023"
+        }
+      ]
+    },
+    {
       "title": "socials",
       "type": "links",
       "links": [
