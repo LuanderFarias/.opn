@@ -12,6 +12,12 @@
       "type": "list",
       "items": [
         {
+          "title": "nichroma",
+          "description": "minimal game library manager & launcher",
+          "url": "https://github.com/LuanderFarias/nichroma",
+          "date": "2026–Present"
+        },
+        {
           "title": "croissant",
           "description": "turns websites into lightweight, cross-platform desktop apps using the operating system native webview in a single command",
           "url": "https://github.com/LuanderFarias/croissant",
